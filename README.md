@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 
+
+Some of my other profiles are down below
+
+![image](https://logodix.com/logo/1049774.png)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
