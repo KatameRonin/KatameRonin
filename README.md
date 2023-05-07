@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hey there! My name is Amartya Dutta and I am from the beautiful city of Guwahati in the state of Assam, India. I am a Graduate Student in the Department of Computer Science at Virginia Tech. I am presently a Graduate Research Assistant at the Knowledge Guided Machine Learning (KGML) Lab at Virginia Tech
 <!--
 **KatameRonin/KatameRonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
