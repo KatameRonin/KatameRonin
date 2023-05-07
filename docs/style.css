@@ -145,3 +145,61 @@ footer {
   margin: 10px 0;
 }
 
+.work-experience {
+    display: flex;
+    align-items: center;
+    /*margin: 20px 0;*/
+  }
+
+  .work {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+  }
+
+  .pos-box {
+    display: inline-block;
+    background-color: #FFC107;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+
+  .highlight-text {
+    font-weight: bold;
+    color: #484848;
+  }
+
+  .date-box {
+    display: inline-block;
+    background-color: #ADD8E6;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+
+  .about {
+  max-width: 2000px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 20px 0;
+
+}
+
+.image {
+  flex: 1;
+  margin-right: 50px;
+}
+
+.description {
+  flex: 2;
+}
+
+.degree-box {
+    display: inline-block;
+    background-color: #d8b6ff;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
