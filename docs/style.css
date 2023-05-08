@@ -172,7 +172,7 @@ footer {
 
   .date-box {
     display: inline-block;
-    background-color: #ADD8E6;
+    background-color: #90EE90;
     padding: 4px 8px;
     border-radius: 4px;
     margin-right: 10px;
@@ -203,3 +203,23 @@ footer {
     border-radius: 4px;
     margin-right: 10px;
   }
+
+.scroll-section {
+  /*padding-top: 10px;*/
+  height: 140px; /* Set the height of the scrolling section */
+  overflow: auto; /* Add scrolling functionality */
+}
+
+.scroll-container {
+  width: 100%; /* Set the width of the container */
+  height: 100%; /* Set the height of the container */
+  display: flex; /* Use flexbox for layout */
+  flex-direction: column; /* Set the direction of the flexbox to column */
+}
+
+.scroll-item {
+  width: 100%; /* Set the width of each item */
+  height: 100%; /* Set the height of each item */
+  background-color: #f1f1f1; /* Set a background color for each item */
+  padding: 20px; /* Add some padding to each item */
+}
